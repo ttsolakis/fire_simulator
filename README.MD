@@ -1,9 +1,22 @@
 ## 🔥 Fire Simulator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.12-blue)
+
 A Python package for simulating wildfire spread on raster grids (GeoTIFF), with simple visualization using Matplotlib.  
 The simulator uses **Copernicus Global Land Cover (LCM-10)** maps to define vegetation and flammability.
 
 ---
+
+## 🎬 Demo
+
+Here’s an example fire spread simulation (click to enlarge):
+
+![Fire Spread Demo](examples/my_fire.gif)
+
+
+*(More results and an animation are available in the `examples/` folder — e.g., `my_fire.mp4`.)*
+
 
 ## ⚙️ Installation
 
